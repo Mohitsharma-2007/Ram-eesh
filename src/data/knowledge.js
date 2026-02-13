@@ -11,7 +11,7 @@ RAM-EESH GROUP OF INSTITUTIONS - KNOWLEDGE BASE
 2. INSTITUTES
 - Ram-Eesh Institute of Vocational and Technical Education (RIVTE): Pharmacy (B.Pharm, D.Pharm, M.Pharm).
 - Ram-Eesh Institute of Education (RIE): B.Ed, B.El.Ed.
-- Ram-Eesh Institute of Engineering & Technology (RIET): B.Tech (CSE, ECE, ME, CE) - *Check current status*.
+- Ram-Eesh Institute of Engineering & Technology (RIET): B.Tech (CSE, ECE, ME, CE), Diploma in Engineering (CSE, ME, CE, ECE).
 - Ram-Eesh International School: K-12 Education.
 
 3. COURSES & ELIGIBILITY

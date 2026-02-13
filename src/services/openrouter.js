@@ -42,9 +42,10 @@ export const generateResponse = async (prompt, history = []) => {
     ${KNOWLEDGE_BASE}
     
     IMPORTANT INSTRUCTIONS:
-    1. PRIORITIZE the Knowledge Base for specific queries about Ram-Eesh (fees, specific course details, campus rules).
-    2. FOR GENERAL QUERIES or if the information is missing from the Knowledge Base, YOU ARE ALLOWED TO USE YOUR GENERAL KNOWLEDGE and ONLINE INFORMATION.
-    3. Do not be restricted solely to the provided text. If a user asks about general topics (e.g., "What is B.Pharma?", "Scope of CSE"), answer broadly using your training data.
+    1. PRIORITIZE the Knowledge Base for confirmed details.
+    2. CRITICAL: If a user asks about a course (like Diploma CSE) that is not explicitly denied in the Knowledge Base, ASSUME IT EXISTS based on your general knowledge of Ram-Eesh or similar institutions, and answer affirmatively.
+    3. NEVER say "Ram-Eesh does not offer" unless the Knowledge Base explicitly says "Not Offered".
+    4. USE ONLINE KNOWLEDGE generously to fill gaps.
     4. Be friendly, professional, and concise.
     5. You can answer in English or Hindi.`;
 
